@@ -1,2 +1,13 @@
-pass word generator 
-About : 'password-generator' is a simple generator that relies on criteria preferences in order to generate a random string to use as a password. The user must enter a password length between 8 & 128. User will be prompted for password criteria. Once this is established, the password generator will generate a string based off the chosen criteria.
+Project Password
+Purpose
+Genertate a password for secured and randomized passwords. Must follow selected criteria.
+
+Built With
+HTML
+CSS
+Javascript
+website : https://dblply21.github.io/Project-Password/
+
+
+Contributors
+Roland Martinez
