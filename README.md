@@ -1,0 +1,2 @@
+pass word generator 
+About : 'password-generator' is a simple generator that relies on criteria preferences in order to generate a random string to use as a password. The user must enter a password length between 8 & 128. User will be prompted for password criteria. Once this is established, the password generator will generate a string based off the chosen criteria.
